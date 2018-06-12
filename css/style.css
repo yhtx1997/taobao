@@ -422,7 +422,7 @@
 }
 .search-but,
 .search-but-scroll{
-    float: left;
+    float: right;
     width: 94px;
     height: 40px;
     border: none;
